@@ -11,4 +11,4 @@ var mergeTwoLists = function(l1, l2) {
         console.log(l1)
         return l2
     }
-};
+}; //****ListNodeは配列ではない
